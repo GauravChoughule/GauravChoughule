@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **my college projects.**
 
-- 🌱 I’m currently learning **Frontend Development.**
+- 🌱 I’m currently learning **Full Stack Development.**
 
 - 💬 Let's talk about **AI, Web Development, Programming.**
 
